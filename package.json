@@ -4,9 +4,14 @@
 	"author": "Aaron Marks",
 	"description": "A project built while learning more about APIs and microservices.",
 	"license": "MIT",
-	"keywords": ["learning", "freecodecamp", "keywords"],
+	"keywords": [
+		"learning",
+		"freecodecamp",
+		"keywords"
+	],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
