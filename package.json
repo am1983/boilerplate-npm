@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.4",
 	"author": "Aaron Marks",
 	"description": "A project built while learning more about APIs and microservices.",
 	"license": "MIT",
