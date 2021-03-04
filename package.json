@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Aaron Marks",
+	"description": "A project built while learning more about APIs and microservices.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
